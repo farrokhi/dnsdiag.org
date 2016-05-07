@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/farrokhi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dnsdiag.org
+  * I am farrokhi (https://keybase.io/farrokhi) on keybase.
+  * I have a public key ASDIbxGbN4FAzbJV1FShHzjh5TfrFv2gjrpgPJzAGOsDVgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b8c3e5bc5e6733e96c6873cc2f16447296aba47ed9dd7ff1ac44c38e3dbc3fea0a",
+            "host": "keybase.io",
+            "kid": "0120c86f119b378140cdb255d454a11f38e1e537eb16fda08eba603c9cc018eb03560a",
+            "uid": "ede02c4a1075e2148d381c3527aa2b19",
+            "username": "farrokhi"
+        },
+        "service": {
+            "hostname": "dnsdiag.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1462040228,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1462040210,
+        "hash": "b11c206c7d23700b23535e062eacdcd86b1423a58316ca56027736163f9896b23e671c90c7c661d1ca7bd1ab6f0a61552334c4d2dd93e608a72c3ec3bdf3122f",
+        "seqno": 454229
+    },
+    "prev": "35cb27c04fc1bb0866ed258be3f3b25d723d2c65bfcd5fe3f3f50d052e8ec1ec",
+    "seqno": 42,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyG8RmzeBQM2yVdRUoR844eU36xb9oI66YDycwBjrA1YKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYjhjM2U1YmM1ZTY3MzNlOTZjNjg3M2NjMmYxNjQ0NzI5NmFiYTQ3ZWQ5ZGQ3ZmYxYWM0NGMzOGUzZGJjM2ZlYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzg2ZjExOWIzNzgxNDBjZGIyNTVkNDU0YTExZjM4ZTFlNTM3ZWIxNmZkYTA4ZWJhNjAzYzljYzAxOGViMDM1NjBhIiwidWlkIjoiZWRlMDJjNGExMDc1ZTIxNDhkMzgxYzM1MjdhYTJiMTkiLCJ1c2VybmFtZSI6ImZhcnJva2hpIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkbnNkaWFnLm9yZyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE1In0sImN0aW1lIjoxNDYyMDQwMjI4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjIwNDAyMTAsImhhc2giOiJiMTFjMjA2YzdkMjM3MDBiMjM1MzVlMDYyZWFjZGNkODZiMTQyM2E1ODMxNmNhNTYwMjc3MzYxNjNmOTg5NmIyM2U2NzFjOTBjN2M2NjFkMWNhN2JkMWFiNmYwYTYxNTUyMzM0YzRkMmRkOTNlNjA4YTcyYzNlYzNiZGYzMTIyZiIsInNlcW5vIjo0NTQyMjl9LCJwcmV2IjoiMzVjYjI3YzA0ZmMxYmIwODY2ZWQyNThiZTNmM2IyNWQ3MjNkMmM2NWJmY2Q1ZmUzZjNmNTBkMDUyZThlYzFlYyIsInNlcW5vIjo0MiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBHvxqbfZTYCJbNxNhfmaI5ttVgT+4VNLTwcxgzb2kYuSsdNgKYdEhokrOS1mW9pha4nzBSi5sQwCPUKy3RmCQCqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/farrokhi
+
+==================================================================
