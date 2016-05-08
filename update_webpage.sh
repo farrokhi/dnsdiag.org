@@ -10,8 +10,10 @@ cd -
 cat << HEADER > index.html
 <!DOCTYPE html>
 <html>
+<head>
 <title>DNSDiag</title>
-
+<meta name="Keywords" content="dns, dnseval, dnstools, dnsping, dnstraceroute, dnsdiag, hijacking, python, isp" />
+</head>
 <xmp theme="cerulean" style="display:none;">
 HEADER
 cat dnsdiag/README.md >> index.html
